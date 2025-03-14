@@ -1,5 +1,6 @@
 # Walmart_Sales_Analysis
 🔗 Dataset: https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets
+
 This project analyzes **Walmart sales data (10K rows)** using **Python, SQL, and Tableau** to uncover trends, optimize revenue strategies, and predict future sales.
 
 ## 🛠 Technologies Used
