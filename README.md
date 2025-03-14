@@ -74,10 +74,6 @@ Designed an **interactive sales dashboard** with filters for branch-wise analysi
 
 🔗 **[View Tableau Dashboard](#)**  
 
----
-
-## 🚀 **How to Use**
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/walmart-sales-analysis.git
-   cd walmart-sales-analysis
+### 📈 Results & Business Insights
+🔹 **Optimized Revenue Strategy**: Identified peak sales hours & top-performing branches
+🔹 **Improved Customer Understanding**: Analyzed preferred payment methods & satisfaction trends
