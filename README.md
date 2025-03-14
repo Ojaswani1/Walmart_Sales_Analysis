@@ -73,7 +73,7 @@ Designed an **interactive sales dashboard** with filters for branch-wise analysi
   - 📊 **Customer Satisfaction Trend**  
   - 📊 **Top 10 Branches with Highest Profit**  
 
-🔗 **[View Tableau Dashboard](#)**  
+🔗 **Tableau Dashboard Link:** https://public.tableau.com/views/Walmart_Sales_Analysis_17419456775280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 
 ### 📈 Results & Business Insights
 🔹 **Optimized Revenue Strategy**: Identified peak sales hours & top-performing branches
